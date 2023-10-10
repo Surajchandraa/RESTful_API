@@ -1,0 +1,10 @@
+{
+  "ranking":2,
+  "name":"coleman",
+  "dob":"06 MAR 1996",
+  "country":"USA",
+  "score":"1477"
+
+}
+
+datashould be in this format
